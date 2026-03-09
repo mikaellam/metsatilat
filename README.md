@@ -12,7 +12,7 @@
 - `screenshots/`: Visuaalinen esitys lopputuloksesta.
 
 ## Visualisointi
-![Metsäanalyysin lopputulos](screenshots/paapuulaji_kartta.png)
+![Metsäanalyysin lopputulos](Metsa_Ruovesi_2026/screenshots/paapuulaji_kartta.png)
 
 ---
 *Teknologiat: QGIS 3.44.7, PostgreSQL/PostGIS, SQL, Git.*
